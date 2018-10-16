@@ -220,6 +220,9 @@ This use of cookies worries people and the EU [has created legislation around th
 
 Cookies, like any technology, are a tool. In the rest of this unit, we're going to be using them to let users log in. Whether you later want to use them in such a way that the EU passes another law is up to you.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-cookies_and_sessions_readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-cookies_and_sessions_readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
   * [HTTP RFC Section 9 — Methods][rfc_http_methods]
